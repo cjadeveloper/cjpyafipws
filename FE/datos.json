@@ -1,0 +1,6 @@
+{
+    "cuit_ce": 2026726803,
+    "certificado": "FE/cjadeveloperPRO.crt",
+    "claveprivada": "FE/cjadeveloperPRO.key",
+    "cacert": "conf/afip_ca_info.crt"
+}

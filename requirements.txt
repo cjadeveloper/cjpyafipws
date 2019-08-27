@@ -1,0 +1,8 @@
+autopep8>=1.4.4
+pylint<2.0.0
+httplib2>=0.7
+pysimplesoap==1.08.14
+fpdf>=1.7.2
+dbf>=0.88.019
+Pillow>=2.0.0
+pyafipws==2.7.0
